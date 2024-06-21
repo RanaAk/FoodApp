@@ -1,3 +1,8 @@
 # FoodApp
 
-!["Food](HomeView.gif)
+!["Food](C.gif)
+
+!["Food](U.gif)
+
+!["Food](U1.gif)
+
