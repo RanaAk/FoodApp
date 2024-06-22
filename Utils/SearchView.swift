@@ -52,3 +52,5 @@ struct SearchView: View {
 #Preview {
     SearchView(searchText: .constant(""))
 }
+
+//
