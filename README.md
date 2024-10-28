@@ -1,6 +1,12 @@
 # FoodApp
 ---
-![FoodApp](FoodApp.gif)
+
+This project is written in ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge) and involves food features like ![Burger](https://img.shields.io/badge/Burger-%F0%9F%8D%94-yellow?style=for-the-badge).
+
+<p align="center">
+  <img src="FoodApp.gif" alt="Food App" width="300" />
+</p>
+
 
 FoodApp is a mobile application designed to provide users with an easy and interactive way to order their favorite food. This README file details the functionalities of the app, supported views, and their uses. **Please note that all the data used in this app is mock data, and it operates entirely offline. As it is currently designed, the app does not support sending messages through the internet. However, its message model and UI are fully developed and functional, making it a useful reference for other developers building similar applications.** 
 
@@ -18,8 +24,6 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 
 #### 1. Home View
 
-![HomeView](HomeView.gif)
-
 **Functionality:**
 - Displays a variety of food items including categories such as Burger, Drink, and Roll.
 - Allows users to browse through the items.
@@ -27,8 +31,6 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 - Users can see the brief descriptions of each item.
 
 #### 2. Search View
-
-![SearchView](SearchView.gif)
 
 **Functionality:**
 - Provides a search bar for users to find specific food items.
@@ -38,8 +40,6 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 
 #### 3. Favorite View
 
-![Favourite](Favourite.gif)
-
 **Functionality:**
 - Users can mark their favorite items by tapping the heart icon.
 - This view lists all items marked as favorites for quick access.
@@ -48,7 +48,9 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 
 #### 4. Detail View
 
-![DetailView](DetailView.gif)
+<p align="center">
+  <img src="DetailView.gif" alt="DetailView" width="300"/>
+</p>
 
 **Functionality:**
 - Displays detailed information about the selected food item.
@@ -57,16 +59,12 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 
 #### 5. Profile View
 
-![Profile](Profile.gif)
-
 **Functionality:**
 - Shows user profile information including name, email, and profile picture.
 - Users can manage their profile settings from this view.
 
 
 #### 6. Add View
-
-![Add View](AddView.gif)
 
 **Functionality:**
 - Allows users to modify existing items, particularly burgers.
@@ -78,8 +76,6 @@ FoodApp is a mobile application designed to provide users with an easy and inter
 
 
 #### 7. Message View
-
-![Message](Message.gif)
 
 **Functionality:**
 - Fully developed messaging interface for communication within the app.
